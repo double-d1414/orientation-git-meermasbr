@@ -165,6 +165,6 @@ Choose to walk along with a video for setting up SSH or to follow the instructio
 ## Congratulations! ##
 Git will be a tool you likely use daily throughout your career. 
 
-This was a minimal dive into Git to make certain your computer's environment is set correctly. A deeper-dive into Git with additional functionality and explanations will be part of your continued learning at BloomTech.
+This was a minimal dive into Git to make certain your computer's environment is set correctly. A deeper-dive into Git with additional functionality and explanations will be part of your continued learning at BloomTech..
 
 
